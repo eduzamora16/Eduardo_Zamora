@@ -11,4 +11,12 @@ Mi hobby es practicar Python
 
 Adicional me gusta nadar
 Adicional me gusta correr
-Adiconal me gusta manejar
+Adicional me gusta manejar
+
+
+#Links
+www.github.com
+www.github/Eduzamora16.com
+
+
+
