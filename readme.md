@@ -12,3 +12,10 @@ Mi hobby es practicar Python
 Adicional me gusta nadar
 Adicional me gusta correr
 Adiconal me gusta manejar
+
+
+#Cursos
+
+Matematica
+Fisica
+Quimica
