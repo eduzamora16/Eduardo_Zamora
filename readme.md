@@ -6,4 +6,4 @@ Mi hobby es la mecanica
 Mi hobby es los autos
 Mi hobby es practicar Python
 
-# EXCELENTE, gracias por tu envio. Atte Alexande :D
+# EXCELENTE, gracias por tu envio. Atte Alexander
